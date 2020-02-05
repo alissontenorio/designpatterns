@@ -1,4 +1,4 @@
-from Singleton import Singleton
+from criacao.singleton.Singleton import Singleton
 
 test1 = Singleton()
 test1.id = 12
